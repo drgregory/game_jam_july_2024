@@ -16,5 +16,8 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"stone","order":1,"path":"objects/stone/stone.yy",},
+    {"name":"emerald_stone","order":1,"path":"sprites/emerald_stone/emerald_stone.yy",},
+  ],
 }
