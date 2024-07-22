@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"drop_group","order":2,"path":"objects/drop_group/drop_group.yy",},
     {"name":"stone","order":1,"path":"objects/stone/stone.yy",},
     {"name":"emerald_stone","order":1,"path":"sprites/emerald_stone/emerald_stone.yy",},
   ],
