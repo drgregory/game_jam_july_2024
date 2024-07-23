@@ -19,6 +19,8 @@
   "ResourceOrderSettings":[
     {"name":"drop_group","order":2,"path":"objects/drop_group/drop_group.yy",},
     {"name":"stone","order":1,"path":"objects/stone/stone.yy",},
+    {"name":"swordguy","order":3,"path":"objects/swordguy/swordguy.yy",},
     {"name":"emerald_stone","order":1,"path":"sprites/emerald_stone/emerald_stone.yy",},
+    {"name":"sword_guy","order":2,"path":"sprites/sword_guy/sword_guy.yy",},
   ],
 }
