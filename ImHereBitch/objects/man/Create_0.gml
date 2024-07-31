@@ -18,5 +18,7 @@ sword_guy_sprites[ MAN_FLASKUP ] = man_flaskup;
 sprite_index = sword_guy_sprites[ character_state ];
 
 
-x = 1500 - 0.5 * sprite_width;
+//x = 1500 - 0.5 * sprite_width;
+
+
 

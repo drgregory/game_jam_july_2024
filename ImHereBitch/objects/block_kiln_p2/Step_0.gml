@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-sprite_index = man_flaskup;
+
+visible = global.kiln_blocked_p2;
