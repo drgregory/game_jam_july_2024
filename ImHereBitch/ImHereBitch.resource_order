@@ -17,6 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"block_kiln_p2","order":40,"path":"objects/block_kiln_p2/block_kiln_p2.yy",},
+    {"name":"block_kiln","order":39,"path":"objects/block_kiln/block_kiln.yy",},
+    {"name":"block_portal_p2","order":38,"path":"objects/block_portal_p2/block_portal_p2.yy",},
+    {"name":"block_portal","order":41,"path":"objects/block_portal/block_portal.yy",},
     {"name":"coin_p2","order":21,"path":"objects/coin_p2/coin_p2.yy",},
     {"name":"coin","order":5,"path":"objects/coin/coin.yy",},
     {"name":"drop_group_p2","order":22,"path":"objects/drop_group_p2/drop_group_p2.yy",},
@@ -53,6 +57,7 @@
     {"name":"stone","order":1,"path":"objects/stone/stone.yy",},
     {"name":"thing_p2","order":29,"path":"objects/thing_p2/thing_p2.yy",},
     {"name":"thing","order":4,"path":"objects/thing/thing.yy",},
+    {"name":"block_X","order":26,"path":"sprites/block_X/block_X.yy",},
     {"name":"blue_coin","order":6,"path":"sprites/blue_coin/blue_coin.yy",},
     {"name":"element_0","order":7,"path":"sprites/element_0/element_0.yy",},
     {"name":"element_1","order":8,"path":"sprites/element_1/element_1.yy",},

@@ -73,6 +73,12 @@ global.player_health_p2 = 2;
 
 global.SCORE_MULTIPLIER_EXP_BASE = 1.05;
 
+global.LEFT_POINT_P2 = 3000;//3200;
+global.RIGHT_POINT_P1 = 3000;//2800;
 
-global.LEFT_POINT_P2 = 2800;
-global.RIGHT_POINT_P1 = 3200;
+global.MONSTER_COLLISION_TIMEOUT = 10 * game_get_speed( gamespeed_fps );
+
+global.kiln_blocked = false;
+global.kiln_blocked_p2 = false;
+global.portal_blocked = false;
+global.portal_blocked_p2 = false;

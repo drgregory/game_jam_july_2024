@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"kiln_obj",
+  "%Name":"block_kiln_p2",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"drop_group","path":"objects/drop_group/drop_group.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"kiln_obj",
+  "name":"block_kiln_p2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"kiln",
-    "path":"sprites/kiln/kiln.yy",
+    "name":"block_X",
+    "path":"sprites/block_X/block_X.yy",
   },
   "spriteMaskId":null,
   "visible":true,
