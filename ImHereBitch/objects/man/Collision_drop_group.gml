@@ -10,7 +10,7 @@ if ( sprite_index == man_flaskup ) {
 
 	reshuffle_element_path = true;
 	if ( other.current_sprite_index == global.element_path_items[ 0 ] ) {
-		global.player_multiplier = global.player_multiplier * 1.05;
+		global.player_multiplier = global.player_multiplier * global.SCORE_MULTIPLIER_EXP_BASE;
 
 	} else if ( other.current_sprite_index == global.element_path_items[ 1 ] ) {
 		global.player_multiplier = global.player_multiplier * 1.0;
