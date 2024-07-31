@@ -85,6 +85,6 @@ global.kiln_blocked_p2 = false;
 global.portal_blocked = false;
 global.portal_blocked_p2 = false;
 
-global.GAME_LENGTH = 30 * game_get_speed( gamespeed_fps );
+global.GAME_LENGTH = 180 * game_get_speed( gamespeed_fps );
 
 global.TICK_LENGTH = 1 * game_get_speed( gamespeed_fps );
