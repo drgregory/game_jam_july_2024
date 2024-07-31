@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+randomize()
+
 global.DROP_SPEED_MINIMUM = 1;
 global.DROP_SPEED_MAXIMUM = 4;
 global.DROP_SPEED_CHANGE_MINIMUM = -0.5;
@@ -82,3 +84,7 @@ global.kiln_blocked = false;
 global.kiln_blocked_p2 = false;
 global.portal_blocked = false;
 global.portal_blocked_p2 = false;
+
+global.GAME_LENGTH = 30 * game_get_speed( gamespeed_fps );
+
+global.TICK_LENGTH = 1 * game_get_speed( gamespeed_fps );

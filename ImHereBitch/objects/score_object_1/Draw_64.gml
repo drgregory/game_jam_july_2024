@@ -3,7 +3,7 @@
 
 draw_set_color( c_red );
 draw_set_halign( fa_left );
-draw_set_valign( fa_top );
+draw_set_valign( fa_top );//
 draw_set_font( fnt_score );
 draw_text( 100 + 0.5 * room_width, 75, "score: " + string( global.player_score_p2 ) );
 
