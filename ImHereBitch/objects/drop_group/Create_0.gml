@@ -31,4 +31,7 @@ function update_drop_group_object() {
 	ds_priority_add( object_pqueue, random_sprite_index, global.LOW_PRIORITY );
 	current_sprite_index = ds_priority_delete_min( object_pqueue );
 	sprite_index = global.alchemy_to_sprite_index[ current_sprite_index ];
+	if current_sprite_index >= global.num_alchemy_elements {
+		audio_play_sound(snd_monster_arrival, 0, false, 1, 0, random_range(0.7, 1.3));
+	}
 }
